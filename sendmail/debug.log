@@ -1,0 +1,1075 @@
+20/07/20 23:14:20 ** --- MESSAGE BEGIN ---
+20/07/20 23:14:20 ** To: info.cityserviceprovider@gmail.com
+20/07/20 23:14:20 ** Subject: Simple Email Test via PHP
+20/07/20 23:14:20 ** From: info.cityserviceprovider@gmail.com
+20/07/20 23:14:20 ** 
+20/07/20 23:14:20 ** Hi,nn This is test email send by PHP Script
+20/07/20 23:14:20 ** --- MESSAGE END ---
+20/07/20 23:14:23 ** Connecting to smtp.gmail.com:587
+20/07/20 23:14:24 ** Connected.
+20/07/20 23:14:24 << 220 smtp.gmail.com ESMTP j11sm17119724pfn.38 - gsmtp<EOL>
+20/07/20 23:14:24 >> EHLO localhost<EOL>
+20/07/20 23:14:24 << 250-smtp.gmail.com at your service, [106.213.145.97]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/20 23:14:24 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/20 23:14:24 >> STARTTLS<EOL>
+20/07/20 23:14:25 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/20 23:14:25 >> EHLO localhost<EOL>
+20/07/20 23:14:25 << 250-smtp.gmail.com at your service, [106.213.145.97]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/20 23:14:25 >> AUTH LOGIN<EOL>
+20/07/20 23:14:25 << 334 VXNlcm5hbWU6<EOL>
+20/07/20 23:14:25 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/20 23:14:26 << 334 UGFzc3dvcmQ6<EOL>
+20/07/20 23:14:26 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/20 23:14:26 << 235 2.7.0 Accepted<EOL>
+20/07/20 23:14:26 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/20 23:14:26 << 250 2.1.0 OK j11sm17119724pfn.38 - gsmtp<EOL>
+20/07/20 23:14:26 >> RCPT TO: <info.cityserviceprovider@gmail.com><EOL>
+20/07/20 23:14:27 << 250 2.1.5 OK j11sm17119724pfn.38 - gsmtp<EOL>
+20/07/20 23:14:27 >> DATA<EOL>
+20/07/20 23:14:27 << 354  Go ahead j11sm17119724pfn.38 - gsmtp<EOL>
+20/07/20 23:14:27 >> Date: Mon, 20 Jul 2020 23:14:27 +0530<EOL>
+20/07/20 23:14:27 >> To: info.cityserviceprovider@gmail.com<EOL>
+20/07/20 23:14:27 >> Subject: Simple Email Test via PHP<EOL>
+20/07/20 23:14:27 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/20 23:14:27 >> <EOL>
+20/07/20 23:14:27 >> Hi,nn This is test email send by PHP Script<EOL>
+20/07/20 23:14:27 >> .<EOL>
+20/07/20 23:14:28 << 250 2.0.0 OK  1595267067 j11sm17119724pfn.38 - gsmtp<EOL>
+20/07/20 23:14:28 >> QUIT<EOL>
+20/07/20 23:14:29 << 221 2.0.0 closing connection j11sm17119724pfn.38 - gsmtp<EOL>
+20/07/20 23:14:29 ** Disconnected.
+20/07/20 23:14:29 ** Disconnected.
+20/07/20 23:14:29 ** Disconnected.
+20/07/20 23:14:31 ** Disconnecting from smtp.gmail.com:587
+20/07/20 23:15:20 ** --- MESSAGE BEGIN ---
+20/07/20 23:15:20 ** To: gauravpravin413@gmail.com
+20/07/20 23:15:20 ** Subject: Simple Email Test via PHP
+20/07/20 23:15:20 ** From: info.cityserviceprovider@gmail.com
+20/07/20 23:15:20 ** 
+20/07/20 23:15:20 ** Hi,nn This is test email send by PHP Script
+20/07/20 23:15:20 ** --- MESSAGE END ---
+20/07/20 23:15:21 ** Connecting to smtp.gmail.com:587
+20/07/20 23:15:22 ** Connected.
+20/07/20 23:15:22 << 220 smtp.gmail.com ESMTP bf11sm186330pjb.48 - gsmtp<EOL>
+20/07/20 23:15:22 >> EHLO localhost<EOL>
+20/07/20 23:15:22 << 250-smtp.gmail.com at your service, [106.213.145.97]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/20 23:15:22 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/20 23:15:22 >> STARTTLS<EOL>
+20/07/20 23:15:22 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/20 23:15:22 >> EHLO localhost<EOL>
+20/07/20 23:15:23 << 250-smtp.gmail.com at your service, [106.213.145.97]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/20 23:15:23 >> AUTH LOGIN<EOL>
+20/07/20 23:15:23 << 334 VXNlcm5hbWU6<EOL>
+20/07/20 23:15:23 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/20 23:15:23 << 334 UGFzc3dvcmQ6<EOL>
+20/07/20 23:15:23 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/20 23:15:24 << 235 2.7.0 Accepted<EOL>
+20/07/20 23:15:24 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/20 23:15:24 << 250 2.1.0 OK bf11sm186330pjb.48 - gsmtp<EOL>
+20/07/20 23:15:24 >> RCPT TO: <gauravpravin413@gmail.com><EOL>
+20/07/20 23:15:24 << 250 2.1.5 OK bf11sm186330pjb.48 - gsmtp<EOL>
+20/07/20 23:15:24 >> DATA<EOL>
+20/07/20 23:15:24 << 354  Go ahead bf11sm186330pjb.48 - gsmtp<EOL>
+20/07/20 23:15:24 >> Date: Mon, 20 Jul 2020 23:15:24 +0530<EOL>
+20/07/20 23:15:24 >> To: gauravpravin413@gmail.com<EOL>
+20/07/20 23:15:24 >> Subject: Simple Email Test via PHP<EOL>
+20/07/20 23:15:24 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/20 23:15:24 >> <EOL>
+20/07/20 23:15:24 >> Hi,nn This is test email send by PHP Script<EOL>
+20/07/20 23:15:24 >> .<EOL>
+20/07/20 23:15:25 << 250 2.0.0 OK  1595267124 bf11sm186330pjb.48 - gsmtp<EOL>
+20/07/20 23:15:25 >> QUIT<EOL>
+20/07/20 23:15:26 << 221 2.0.0 closing connection bf11sm186330pjb.48 - gsmtp<EOL>
+20/07/20 23:15:26 ** Disconnecting from smtp.gmail.com:587
+20/07/20 23:15:26 ** Disconnected.
+20/07/20 23:15:26 ** Disconnected.
+20/07/20 23:17:39 ** --- MESSAGE BEGIN ---
+20/07/20 23:17:39 ** To: aryan94786@gmail.com
+20/07/20 23:17:39 ** Subject: mail from xamp
+20/07/20 23:17:39 ** From: info.cityserviceprovider@gmail.com
+20/07/20 23:17:39 ** 
+20/07/20 23:17:39 ** hogya successfully send mail 
+20/07/20 23:17:39 ** --- MESSAGE END ---
+20/07/20 23:17:41 ** Connecting to smtp.gmail.com:587
+20/07/20 23:17:41 ** Connected.
+20/07/20 23:17:41 << 220 smtp.gmail.com ESMTP 196sm9100521pgd.16 - gsmtp<EOL>
+20/07/20 23:17:41 >> EHLO localhost<EOL>
+20/07/20 23:17:41 << 250-smtp.gmail.com at your service, [106.213.145.97]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/20 23:17:41 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/20 23:17:41 >> STARTTLS<EOL>
+20/07/20 23:17:42 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/20 23:17:42 >> EHLO localhost<EOL>
+20/07/20 23:17:42 << 250-smtp.gmail.com at your service, [106.213.145.97]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/20 23:17:42 >> AUTH LOGIN<EOL>
+20/07/20 23:17:43 << 334 VXNlcm5hbWU6<EOL>
+20/07/20 23:17:43 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/20 23:17:43 << 334 UGFzc3dvcmQ6<EOL>
+20/07/20 23:17:43 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/20 23:17:43 << 235 2.7.0 Accepted<EOL>
+20/07/20 23:17:43 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/20 23:17:44 << 250 2.1.0 OK 196sm9100521pgd.16 - gsmtp<EOL>
+20/07/20 23:17:44 >> RCPT TO: <aryan94786@gmail.com><EOL>
+20/07/20 23:17:44 << 250 2.1.5 OK 196sm9100521pgd.16 - gsmtp<EOL>
+20/07/20 23:17:44 >> DATA<EOL>
+20/07/20 23:17:44 << 354  Go ahead 196sm9100521pgd.16 - gsmtp<EOL>
+20/07/20 23:17:44 >> Date: Mon, 20 Jul 2020 23:17:44 +0530<EOL>
+20/07/20 23:17:44 >> To: aryan94786@gmail.com<EOL>
+20/07/20 23:17:44 >> Subject: mail from xamp<EOL>
+20/07/20 23:17:44 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/20 23:17:44 >> <EOL>
+20/07/20 23:17:44 >> hogya successfully send mail <EOL>
+20/07/20 23:17:44 >> .<EOL>
+20/07/20 23:17:45 << 250 2.0.0 OK  1595267264 196sm9100521pgd.16 - gsmtp<EOL>
+20/07/20 23:17:45 >> QUIT<EOL>
+20/07/20 23:17:45 << 221 2.0.0 closing connection 196sm9100521pgd.16 - gsmtp<EOL>
+20/07/20 23:17:45 ** Disconnecting from smtp.gmail.com:587
+20/07/20 23:17:45 ** Disconnected.
+20/07/20 23:17:45 ** Disconnected.
+20/07/21 00:29:23 ** --- MESSAGE BEGIN ---
+20/07/21 00:29:23 ** To: rashidavohra90@gmail.com
+20/07/21 00:29:23 ** Subject: mail from xamp
+20/07/21 00:29:23 ** From: info.cityserviceprovider@gmail.com
+20/07/21 00:29:23 ** 
+20/07/21 00:29:23 ** hiiii 
+20/07/21 00:29:23 ** --- MESSAGE END ---
+20/07/21 00:29:24 ** Connecting to smtp.gmail.com:587
+20/07/21 00:29:25 ** Connected.
+20/07/21 00:29:25 << 220 smtp.gmail.com ESMTP 66sm17617647pfg.63 - gsmtp<EOL>
+20/07/21 00:29:25 >> EHLO localhost<EOL>
+20/07/21 00:29:25 << 250-smtp.gmail.com at your service, [223.184.183.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/21 00:29:25 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/21 00:29:25 >> STARTTLS<EOL>
+20/07/21 00:29:25 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/21 00:29:26 >> EHLO localhost<EOL>
+20/07/21 00:29:26 << 250-smtp.gmail.com at your service, [223.184.183.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/21 00:29:26 >> AUTH LOGIN<EOL>
+20/07/21 00:29:26 << 334 VXNlcm5hbWU6<EOL>
+20/07/21 00:29:26 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/21 00:29:26 << 334 UGFzc3dvcmQ6<EOL>
+20/07/21 00:29:26 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/21 00:29:27 << 235 2.7.0 Accepted<EOL>
+20/07/21 00:29:27 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/21 00:29:27 << 250 2.1.0 OK 66sm17617647pfg.63 - gsmtp<EOL>
+20/07/21 00:29:27 >> RCPT TO: <rashidavohra90@gmail.com><EOL>
+20/07/21 00:29:27 << 250 2.1.5 OK 66sm17617647pfg.63 - gsmtp<EOL>
+20/07/21 00:29:27 >> DATA<EOL>
+20/07/21 00:29:28 << 354  Go ahead 66sm17617647pfg.63 - gsmtp<EOL>
+20/07/21 00:29:28 >> Date: Tue, 21 Jul 2020 00:29:28 +0530<EOL>
+20/07/21 00:29:28 >> To: rashidavohra90@gmail.com<EOL>
+20/07/21 00:29:28 >> Subject: mail from xamp<EOL>
+20/07/21 00:29:28 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/21 00:29:28 >> <EOL>
+20/07/21 00:29:28 >> hiiii <EOL>
+20/07/21 00:29:28 >> .<EOL>
+20/07/21 00:29:29 << 250 2.0.0 OK  1595271568 66sm17617647pfg.63 - gsmtp<EOL>
+20/07/21 00:29:29 >> QUIT<EOL>
+20/07/21 00:29:29 << 221 2.0.0 closing connection 66sm17617647pfg.63 - gsmtp<EOL>
+20/07/21 00:29:29 ** Disconnecting from smtp.gmail.com:587
+20/07/21 00:29:29 ** Disconnected.
+20/07/21 00:29:29 ** Disconnected.
+20/07/21 22:16:08 ** --- MESSAGE BEGIN ---
+20/07/21 22:16:08 ** To: gauravpravin413@gmail.com
+20/07/21 22:16:08 ** Subject: Invoice
+20/07/21 22:16:08 ** From: info.cityserviceprovider@gmail.com
+20/07/21 22:16:08 ** 
+20/07/21 22:16:08 ** Dear Sir/Ma'am
+20/07/21 22:16:08 ** 	Thanks for  choosing  us  . WE  hope you staisfy  From Our Service.
+20/07/21 22:16:08 ** Your 	Invoice no.: 51482020-07-21
+20/07/21 22:16:08 ** Service Charge.:50
+20/07/21 22:16:08 ** Visiting charge.:199
+20/07/21 22:16:08 ** Material Cost.:1000
+20/07/21 22:16:08 ** Total .:1249
+20/07/21 22:16:08 **  for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/21 22:16:08 **  Thanks & Regards
+20/07/21 22:16:08 **  Team City  Service Provider
+20/07/21 22:16:08 ** 
+20/07/21 22:16:08 ** --- MESSAGE END ---
+20/07/21 22:16:11 ** Connecting to smtp.gmail.com:587
+20/07/21 22:16:11 ** Connected.
+20/07/21 22:16:11 << 220 smtp.gmail.com ESMTP r2sm20592066pfh.106 - gsmtp<EOL>
+20/07/21 22:16:11 >> EHLO localhost<EOL>
+20/07/21 22:16:12 << 250-smtp.gmail.com at your service, [106.222.51.56]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/21 22:16:12 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/21 22:16:12 >> STARTTLS<EOL>
+20/07/21 22:16:12 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/21 22:16:12 >> EHLO localhost<EOL>
+20/07/21 22:16:13 << 250-smtp.gmail.com at your service, [106.222.51.56]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/21 22:16:13 >> AUTH LOGIN<EOL>
+20/07/21 22:16:13 << 334 VXNlcm5hbWU6<EOL>
+20/07/21 22:16:13 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/21 22:16:13 << 334 UGFzc3dvcmQ6<EOL>
+20/07/21 22:16:13 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/21 22:16:14 << 235 2.7.0 Accepted<EOL>
+20/07/21 22:16:14 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/21 22:16:14 << 250 2.1.0 OK r2sm20592066pfh.106 - gsmtp<EOL>
+20/07/21 22:16:14 >> RCPT TO: <gauravpravin413@gmail.com><EOL>
+20/07/21 22:16:14 << 250 2.1.5 OK r2sm20592066pfh.106 - gsmtp<EOL>
+20/07/21 22:16:14 >> DATA<EOL>
+20/07/21 22:16:15 << 354  Go ahead r2sm20592066pfh.106 - gsmtp<EOL>
+20/07/21 22:16:15 >> Date: Tue, 21 Jul 2020 22:16:15 +0530<EOL>
+20/07/21 22:16:15 >> To: gauravpravin413@gmail.com<EOL>
+20/07/21 22:16:15 >> Subject: Invoice<EOL>
+20/07/21 22:16:15 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/21 22:16:15 >> <EOL>
+20/07/21 22:16:15 >> Dear Sir/Ma'am<EOL>
+20/07/21 22:16:15 >> 	Thanks for  choosing  us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/21 22:16:15 >> Your 	Invoice no.: 51482020-07-21<EOL>
+20/07/21 22:16:15 >> Service Charge.:50<EOL>
+20/07/21 22:16:15 >> Visiting charge.:199<EOL>
+20/07/21 22:16:15 >> Material Cost.:1000<EOL>
+20/07/21 22:16:15 >> Total .:1249<EOL>
+20/07/21 22:16:15 >>  for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/21 22:16:15 >>  Thanks & Regards<EOL>
+20/07/21 22:16:15 >>  Team City  Service Provider<EOL>
+20/07/21 22:16:15 >> <EOL>
+20/07/21 22:16:15 >> .<EOL>
+20/07/21 22:16:16 << 250 2.0.0 OK  1595349975 r2sm20592066pfh.106 - gsmtp<EOL>
+20/07/21 22:16:16 >> QUIT<EOL>
+20/07/21 22:16:16 << 221 2.0.0 closing connection r2sm20592066pfh.106 - gsmtp<EOL>
+20/07/21 22:16:16 ** Disconnecting from smtp.gmail.com:587
+20/07/21 22:16:16 ** Disconnected.
+20/07/21 22:16:16 ** Disconnected.
+20/07/21 22:30:38 ** --- MESSAGE BEGIN ---
+20/07/21 22:30:38 ** To: aryan94786@gmail.com
+20/07/21 22:30:38 ** Subject: Invoice
+20/07/21 22:30:38 ** From: info.cityserviceprovider@gmail.com
+20/07/21 22:30:38 ** 
+20/07/21 22:30:38 ** Dear Sir/Ma'am
+20/07/21 22:30:38 ** 	Thanks for  choosing  us  . WE  hope you staisfy  From Our Service.
+20/07/21 22:30:38 ** Your 	Invoice no.:  Rs 51882020-07-21
+20/07/21 22:30:38 ** Service Charge.: Rs 100
+20/07/21 22:30:38 ** Visiting charge.:  Rs 199
+20/07/21 22:30:38 ** Material Cost.:  Rs0
+20/07/21 22:30:38 ** Total .:  Rs 299
+20/07/21 22:30:38 **  for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/21 22:30:38 **  Thanks & Regards
+20/07/21 22:30:38 **  Team City  Service Provider
+20/07/21 22:30:38 ** 
+20/07/21 22:30:38 ** --- MESSAGE END ---
+20/07/21 22:30:41 ** Connecting to smtp.gmail.com:587
+20/07/21 22:30:41 ** Connected.
+20/07/21 22:30:42 << 220 smtp.gmail.com ESMTP k98sm3850349pjb.42 - gsmtp<EOL>
+20/07/21 22:30:42 >> EHLO localhost<EOL>
+20/07/21 22:30:42 << 250-smtp.gmail.com at your service, [106.222.51.56]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/21 22:30:42 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/21 22:30:42 >> STARTTLS<EOL>
+20/07/21 22:30:42 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/21 22:30:42 >> EHLO localhost<EOL>
+20/07/21 22:30:43 << 250-smtp.gmail.com at your service, [106.222.51.56]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/21 22:30:43 >> AUTH LOGIN<EOL>
+20/07/21 22:30:43 << 334 VXNlcm5hbWU6<EOL>
+20/07/21 22:30:43 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/21 22:30:43 << 334 UGFzc3dvcmQ6<EOL>
+20/07/21 22:30:43 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/21 22:30:44 << 235 2.7.0 Accepted<EOL>
+20/07/21 22:30:44 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/21 22:30:44 << 250 2.1.0 OK k98sm3850349pjb.42 - gsmtp<EOL>
+20/07/21 22:30:44 >> RCPT TO: <aryan94786@gmail.com><EOL>
+20/07/21 22:30:44 << 250 2.1.5 OK k98sm3850349pjb.42 - gsmtp<EOL>
+20/07/21 22:30:44 >> DATA<EOL>
+20/07/21 22:30:45 << 354  Go ahead k98sm3850349pjb.42 - gsmtp<EOL>
+20/07/21 22:30:45 >> Date: Tue, 21 Jul 2020 22:30:45 +0530<EOL>
+20/07/21 22:30:45 >> To: aryan94786@gmail.com<EOL>
+20/07/21 22:30:45 >> Subject: Invoice<EOL>
+20/07/21 22:30:45 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/21 22:30:45 >> <EOL>
+20/07/21 22:30:45 >> Dear Sir/Ma'am<EOL>
+20/07/21 22:30:45 >> 	Thanks for  choosing  us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/21 22:30:45 >> Your 	Invoice no.:  Rs 51882020-07-21<EOL>
+20/07/21 22:30:45 >> Service Charge.: Rs 100<EOL>
+20/07/21 22:30:45 >> Visiting charge.:  Rs 199<EOL>
+20/07/21 22:30:45 >> Material Cost.:  Rs0<EOL>
+20/07/21 22:30:45 >> Total .:  Rs 299<EOL>
+20/07/21 22:30:45 >>  for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/21 22:30:45 >>  Thanks & Regards<EOL>
+20/07/21 22:30:45 >>  Team City  Service Provider<EOL>
+20/07/21 22:30:45 >> <EOL>
+20/07/21 22:30:45 >> .<EOL>
+20/07/21 22:30:45 << 250 2.0.0 OK  1595350844 k98sm3850349pjb.42 - gsmtp<EOL>
+20/07/21 22:30:45 >> QUIT<EOL>
+20/07/21 22:30:46 << 221 2.0.0 closing connection k98sm3850349pjb.42 - gsmtp<EOL>
+20/07/21 22:30:46 ** Disconnected.
+20/07/21 22:30:46 ** Disconnected.
+20/07/21 22:30:46 ** Disconnected.
+20/07/22 00:05:13 ** --- MESSAGE BEGIN ---
+20/07/22 00:05:13 ** To: g@gmail.com
+20/07/22 00:05:13 ** Subject: Invoice
+20/07/22 00:05:13 ** From: info.cityserviceprovider@gmail.com
+20/07/22 00:05:13 ** 
+20/07/22 00:05:13 ** Dear Sir/Ma'am
+20/07/22 00:05:13 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/22 00:05:13 ** Your Invoice no.:   5382020-07-21
+20/07/22 00:05:13 ** Service Charge.: Rs 200
+20/07/22 00:05:13 ** Visiting charge.:  Rs 199
+20/07/22 00:05:13 ** Material Cost.:  Rs 0
+20/07/22 00:05:13 ** Total .:  Rs 399
+20/07/22 00:05:13 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/22 00:05:13 ** Thanks & Regards
+20/07/22 00:05:13 ** Team City  Service Provider
+20/07/22 00:05:13 ** 
+20/07/22 00:05:13 ** --- MESSAGE END ---
+20/07/22 00:05:17 ** Connecting to smtp.gmail.com:587
+20/07/22 00:05:17 ** Disconnected.
+20/07/22 00:05:17 ** Disconnected.
+20/07/22 00:05:17 ** Disconnected.
+20/07/22 00:05:17 ** Socket Error # 11001<EOL>Host not found.
+20/07/22 19:57:15 ** --- MESSAGE BEGIN ---
+20/07/22 19:57:15 ** To: adityasingh8511@gmail.com
+20/07/22 19:57:15 ** Subject: Invoice
+20/07/22 19:57:15 ** From: info.cityserviceprovider@gmail.com
+20/07/22 19:57:15 ** 
+20/07/22 19:57:15 ** Dear Sir/Ma'am
+20/07/22 19:57:15 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/22 19:57:15 ** Your Invoice no.:   121912020-07-22
+20/07/22 19:57:15 ** Service Charge.: Rs 100
+20/07/22 19:57:15 ** Visiting charge.:  Rs 199
+20/07/22 19:57:15 ** Material Cost.:  Rs 50
+20/07/22 19:57:15 ** Total .:  Rs 349
+20/07/22 19:57:15 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/22 19:57:15 ** Thanks & Regards
+20/07/22 19:57:15 ** Team City  Service Provider
+20/07/22 19:57:15 ** 
+20/07/22 19:57:15 ** --- MESSAGE END ---
+20/07/22 19:57:18 ** Connecting to smtp.gmail.com:587
+20/07/22 19:57:18 ** Connected.
+20/07/22 19:57:18 << 220 smtp.gmail.com ESMTP q29sm43922pfl.77 - gsmtp<EOL>
+20/07/22 19:57:18 >> EHLO localhost<EOL>
+20/07/22 19:57:19 << 250-smtp.gmail.com at your service, [27.61.254.126]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/22 19:57:19 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/22 19:57:19 >> STARTTLS<EOL>
+20/07/22 19:57:19 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/22 19:57:19 >> EHLO localhost<EOL>
+20/07/22 19:57:20 << 250-smtp.gmail.com at your service, [27.61.254.126]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/22 19:57:20 >> AUTH LOGIN<EOL>
+20/07/22 19:57:20 << 334 VXNlcm5hbWU6<EOL>
+20/07/22 19:57:20 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/22 19:57:20 << 334 UGFzc3dvcmQ6<EOL>
+20/07/22 19:57:20 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/22 19:57:21 << 235 2.7.0 Accepted<EOL>
+20/07/22 19:57:21 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/22 19:57:21 << 250 2.1.0 OK q29sm43922pfl.77 - gsmtp<EOL>
+20/07/22 19:57:21 >> RCPT TO: <adityasingh8511@gmail.com><EOL>
+20/07/22 19:57:21 << 250 2.1.5 OK q29sm43922pfl.77 - gsmtp<EOL>
+20/07/22 19:57:21 >> DATA<EOL>
+20/07/22 19:57:22 << 354  Go ahead q29sm43922pfl.77 - gsmtp<EOL>
+20/07/22 19:57:22 >> Date: Wed, 22 Jul 2020 19:57:22 +0530<EOL>
+20/07/22 19:57:22 >> To: adityasingh8511@gmail.com<EOL>
+20/07/22 19:57:22 >> Subject: Invoice<EOL>
+20/07/22 19:57:22 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/22 19:57:22 >> <EOL>
+20/07/22 19:57:22 >> Dear Sir/Ma'am<EOL>
+20/07/22 19:57:22 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/22 19:57:22 >> Your Invoice no.:   121912020-07-22<EOL>
+20/07/22 19:57:22 >> Service Charge.: Rs 100<EOL>
+20/07/22 19:57:22 >> Visiting charge.:  Rs 199<EOL>
+20/07/22 19:57:22 >> Material Cost.:  Rs 50<EOL>
+20/07/22 19:57:22 >> Total .:  Rs 349<EOL>
+20/07/22 19:57:22 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/22 19:57:22 >> Thanks & Regards<EOL>
+20/07/22 19:57:22 >> Team City  Service Provider<EOL>
+20/07/22 19:57:22 >> <EOL>
+20/07/22 19:57:22 >> .<EOL>
+20/07/22 19:57:23 << 250 2.0.0 OK  1595428041 q29sm43922pfl.77 - gsmtp<EOL>
+20/07/22 19:57:23 >> QUIT<EOL>
+20/07/22 19:57:23 << 221 2.0.0 closing connection q29sm43922pfl.77 - gsmtp<EOL>
+20/07/22 19:57:23 ** Disconnected.
+20/07/22 19:57:23 ** Disconnected.
+20/07/22 19:57:23 ** Disconnected.
+20/07/24 11:41:42 ** --- MESSAGE BEGIN ---
+20/07/24 11:41:42 ** To: gauravpravin413@gmail.com
+20/07/24 11:41:42 ** Subject: Invoice
+20/07/24 11:41:42 ** From: info.cityserviceprovider@gmail.com
+20/07/24 11:41:42 ** 
+20/07/24 11:41:42 ** Dear Sir/Ma'am
+20/07/24 11:41:42 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/24 11:41:42 ** Your Invoice no.:   121412020-07-24
+20/07/24 11:41:42 ** Service Charge.: Rs 300
+20/07/24 11:41:42 ** Visiting charge.:  Rs 199
+20/07/24 11:41:42 ** Material Cost.:  Rs 50
+20/07/24 11:41:42 ** Total .:  Rs 549
+20/07/24 11:41:42 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/24 11:41:42 ** Thanks & Regards
+20/07/24 11:41:42 ** Team City  Service Provider
+20/07/24 11:41:42 ** 
+20/07/24 11:41:42 ** --- MESSAGE END ---
+20/07/24 11:41:45 ** Connecting to smtp.gmail.com:587
+20/07/24 11:41:46 ** Connected.
+20/07/24 11:41:46 << 220 smtp.gmail.com ESMTP o136sm4773796pfg.24 - gsmtp<EOL>
+20/07/24 11:41:46 >> EHLO localhost<EOL>
+20/07/24 11:41:46 << 250-smtp.gmail.com at your service, [223.184.147.4]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 11:41:46 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/24 11:41:46 >> STARTTLS<EOL>
+20/07/24 11:41:47 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/24 11:41:47 >> EHLO localhost<EOL>
+20/07/24 11:41:47 << 250-smtp.gmail.com at your service, [223.184.147.4]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 11:41:47 >> AUTH LOGIN<EOL>
+20/07/24 11:41:48 << 334 VXNlcm5hbWU6<EOL>
+20/07/24 11:41:48 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/24 11:41:48 << 334 UGFzc3dvcmQ6<EOL>
+20/07/24 11:41:48 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/24 11:41:48 << 235 2.7.0 Accepted<EOL>
+20/07/24 11:41:48 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/24 11:41:49 << 250 2.1.0 OK o136sm4773796pfg.24 - gsmtp<EOL>
+20/07/24 11:41:49 >> RCPT TO: <gauravpravin413@gmail.com><EOL>
+20/07/24 11:41:49 << 250 2.1.5 OK o136sm4773796pfg.24 - gsmtp<EOL>
+20/07/24 11:41:49 >> DATA<EOL>
+20/07/24 11:41:50 << 354  Go ahead o136sm4773796pfg.24 - gsmtp<EOL>
+20/07/24 11:41:50 >> Date: Fri, 24 Jul 2020 11:41:50 +0530<EOL>
+20/07/24 11:41:50 >> To: gauravpravin413@gmail.com<EOL>
+20/07/24 11:41:50 >> Subject: Invoice<EOL>
+20/07/24 11:41:50 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/24 11:41:50 >> <EOL>
+20/07/24 11:41:50 >> Dear Sir/Ma'am<EOL>
+20/07/24 11:41:50 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/24 11:41:50 >> Your Invoice no.:   121412020-07-24<EOL>
+20/07/24 11:41:50 >> Service Charge.: Rs 300<EOL>
+20/07/24 11:41:50 >> Visiting charge.:  Rs 199<EOL>
+20/07/24 11:41:50 >> Material Cost.:  Rs 50<EOL>
+20/07/24 11:41:50 >> Total .:  Rs 549<EOL>
+20/07/24 11:41:50 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/24 11:41:50 >> Thanks & Regards<EOL>
+20/07/24 11:41:50 >> Team City  Service Provider<EOL>
+20/07/24 11:41:50 >> <EOL>
+20/07/24 11:41:50 >> .<EOL>
+20/07/24 11:41:51 << 250 2.0.0 OK  1595571109 o136sm4773796pfg.24 - gsmtp<EOL>
+20/07/24 11:41:51 >> QUIT<EOL>
+20/07/24 11:41:51 << 221 2.0.0 closing connection o136sm4773796pfg.24 - gsmtp<EOL>
+20/07/24 11:41:51 ** Disconnecting from smtp.gmail.com:587
+20/07/24 11:41:51 ** Disconnected.
+20/07/24 11:41:51 ** Disconnected.
+20/07/24 14:13:55 ** --- MESSAGE BEGIN ---
+20/07/24 14:13:55 ** To: starkjaiswal777@gmail.com
+20/07/24 14:13:55 ** Subject: Invoice
+20/07/24 14:13:55 ** From: info.cityserviceprovider@gmail.com
+20/07/24 14:13:55 ** 
+20/07/24 14:13:55 ** Dear Sir/Ma'am
+20/07/24 14:13:55 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/24 14:13:55 ** Your Invoice no.:   162022020-07-24
+20/07/24 14:13:55 ** Service Charge.: Rs 1000
+20/07/24 14:13:55 ** Visiting charge.:  Rs 299
+20/07/24 14:13:55 ** Material Cost.:  Rs 3000
+20/07/24 14:13:55 ** Total .:  Rs 4299
+20/07/24 14:13:55 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/24 14:13:55 ** Thanks & Regards
+20/07/24 14:13:55 ** Team City  Service Provider
+20/07/24 14:13:55 ** 
+20/07/24 14:13:55 ** --- MESSAGE END ---
+20/07/24 14:13:57 ** Connecting to smtp.gmail.com:587
+20/07/24 14:13:58 ** Connected.
+20/07/24 14:13:58 << 220 smtp.gmail.com ESMTP a30sm5638288pfr.87 - gsmtp<EOL>
+20/07/24 14:13:58 >> EHLO localhost<EOL>
+20/07/24 14:13:58 << 250-smtp.gmail.com at your service, [223.184.208.220]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 14:13:58 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/24 14:13:58 >> STARTTLS<EOL>
+20/07/24 14:13:59 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/24 14:13:59 >> EHLO localhost<EOL>
+20/07/24 14:13:59 << 250-smtp.gmail.com at your service, [223.184.208.220]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 14:13:59 >> AUTH LOGIN<EOL>
+20/07/24 14:13:59 << 334 VXNlcm5hbWU6<EOL>
+20/07/24 14:13:59 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/24 14:14:00 << 334 UGFzc3dvcmQ6<EOL>
+20/07/24 14:14:00 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/24 14:14:00 << 235 2.7.0 Accepted<EOL>
+20/07/24 14:14:00 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/24 14:14:00 << 250 2.1.0 OK a30sm5638288pfr.87 - gsmtp<EOL>
+20/07/24 14:14:00 >> RCPT TO: <starkjaiswal777@gmail.com><EOL>
+20/07/24 14:14:01 << 250 2.1.5 OK a30sm5638288pfr.87 - gsmtp<EOL>
+20/07/24 14:14:01 >> DATA<EOL>
+20/07/24 14:14:01 << 354  Go ahead a30sm5638288pfr.87 - gsmtp<EOL>
+20/07/24 14:14:01 >> Date: Fri, 24 Jul 2020 14:14:01 +0530<EOL>
+20/07/24 14:14:01 >> To: starkjaiswal777@gmail.com<EOL>
+20/07/24 14:14:01 >> Subject: Invoice<EOL>
+20/07/24 14:14:01 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/24 14:14:01 >> <EOL>
+20/07/24 14:14:01 >> Dear Sir/Ma'am<EOL>
+20/07/24 14:14:01 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/24 14:14:01 >> Your Invoice no.:   162022020-07-24<EOL>
+20/07/24 14:14:01 >> Service Charge.: Rs 1000<EOL>
+20/07/24 14:14:01 >> Visiting charge.:  Rs 299<EOL>
+20/07/24 14:14:01 >> Material Cost.:  Rs 3000<EOL>
+20/07/24 14:14:01 >> Total .:  Rs 4299<EOL>
+20/07/24 14:14:01 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/24 14:14:01 >> Thanks & Regards<EOL>
+20/07/24 14:14:01 >> Team City  Service Provider<EOL>
+20/07/24 14:14:01 >> <EOL>
+20/07/24 14:14:01 >> .<EOL>
+20/07/24 14:14:02 << 250 2.0.0 OK  1595580240 a30sm5638288pfr.87 - gsmtp<EOL>
+20/07/24 14:14:02 >> QUIT<EOL>
+20/07/24 14:14:02 << 221 2.0.0 closing connection a30sm5638288pfr.87 - gsmtp<EOL>
+20/07/24 14:14:02 ** Disconnected.
+20/07/24 14:14:02 ** Disconnected.
+20/07/24 14:14:02 ** Disconnected.
+20/07/24 20:00:29 ** --- MESSAGE BEGIN ---
+20/07/24 20:00:30 ** To: lodayapareen25@gmail.com
+20/07/24 20:00:30 ** Subject: Invoice
+20/07/24 20:00:30 ** From: info.cityserviceprovider@gmail.com
+20/07/24 20:00:30 ** 
+20/07/24 20:00:30 ** Dear Sir/Ma'am
+20/07/24 20:00:30 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/24 20:00:30 ** Your Invoice no.:   122112020-07-29
+20/07/24 20:00:30 ** Service Charge.: Rs 100
+20/07/24 20:00:30 ** Visiting charge.:  Rs 199
+20/07/24 20:00:30 ** Material Cost.:  Rs 50
+20/07/24 20:00:30 ** Total .:  Rs 349
+20/07/24 20:00:30 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/24 20:00:30 ** Thanks & Regards
+20/07/24 20:00:30 ** Team City  Service Provider
+20/07/24 20:00:30 ** 
+20/07/24 20:00:30 ** --- MESSAGE END ---
+20/07/24 20:00:32 ** Connecting to smtp.gmail.com:587
+20/07/24 20:00:32 ** Connected.
+20/07/24 20:00:32 << 220 smtp.gmail.com ESMTP x3sm6536071pfn.154 - gsmtp<EOL>
+20/07/24 20:00:32 >> EHLO localhost<EOL>
+20/07/24 20:00:33 << 250-smtp.gmail.com at your service, [106.213.244.239]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 20:00:33 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/24 20:00:33 >> STARTTLS<EOL>
+20/07/24 20:00:33 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/24 20:00:33 >> EHLO localhost<EOL>
+20/07/24 20:00:33 << 250-smtp.gmail.com at your service, [106.213.244.239]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 20:00:33 >> AUTH LOGIN<EOL>
+20/07/24 20:00:34 << 334 VXNlcm5hbWU6<EOL>
+20/07/24 20:00:34 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/24 20:00:37 << 334 UGFzc3dvcmQ6<EOL>
+20/07/24 20:00:37 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/24 20:00:38 << 235 2.7.0 Accepted<EOL>
+20/07/24 20:00:38 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/24 20:00:38 << 250 2.1.0 OK x3sm6536071pfn.154 - gsmtp<EOL>
+20/07/24 20:00:38 >> RCPT TO: <lodayapareen25@gmail.com><EOL>
+20/07/24 20:00:38 << 250 2.1.5 OK x3sm6536071pfn.154 - gsmtp<EOL>
+20/07/24 20:00:38 >> DATA<EOL>
+20/07/24 20:00:39 << 354  Go ahead x3sm6536071pfn.154 - gsmtp<EOL>
+20/07/24 20:00:39 >> Date: Fri, 24 Jul 2020 20:00:39 +0530<EOL>
+20/07/24 20:00:39 >> To: lodayapareen25@gmail.com<EOL>
+20/07/24 20:00:39 >> Subject: Invoice<EOL>
+20/07/24 20:00:39 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/24 20:00:39 >> <EOL>
+20/07/24 20:00:39 >> Dear Sir/Ma'am<EOL>
+20/07/24 20:00:39 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/24 20:00:39 >> Your Invoice no.:   122112020-07-29<EOL>
+20/07/24 20:00:39 >> Service Charge.: Rs 100<EOL>
+20/07/24 20:00:39 >> Visiting charge.:  Rs 199<EOL>
+20/07/24 20:00:39 >> Material Cost.:  Rs 50<EOL>
+20/07/24 20:00:39 >> Total .:  Rs 349<EOL>
+20/07/24 20:00:39 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/24 20:00:39 >> Thanks & Regards<EOL>
+20/07/24 20:00:39 >> Team City  Service Provider<EOL>
+20/07/24 20:00:39 >> <EOL>
+20/07/24 20:00:39 >> .<EOL>
+20/07/24 20:00:40 << 250 2.0.0 OK  1595601037 x3sm6536071pfn.154 - gsmtp<EOL>
+20/07/24 20:00:40 >> QUIT<EOL>
+20/07/24 20:00:40 << 221 2.0.0 closing connection x3sm6536071pfn.154 - gsmtp<EOL>
+20/07/24 20:00:40 ** Disconnected.
+20/07/24 20:00:40 ** Disconnected.
+20/07/24 20:00:40 ** Disconnected.
+20/07/26 16:24:00 ** --- MESSAGE BEGIN ---
+20/07/26 16:24:00 ** To: g@gmail.com
+20/07/26 16:24:00 ** Subject: Invoice
+20/07/26 16:24:00 ** From: info.cityserviceprovider@gmail.com
+20/07/26 16:24:00 ** 
+20/07/26 16:24:00 ** Dear Sir/Ma'am
+20/07/26 16:24:00 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/26 16:24:00 ** Your Invoice no.:   16322020-04-02
+20/07/26 16:24:00 ** Service Charge.: Rs 200
+20/07/26 16:24:00 ** Visiting charge.:  Rs 299
+20/07/26 16:24:00 ** Material Cost.:  Rs 100
+20/07/26 16:24:00 ** Total .:  Rs 599
+20/07/26 16:24:00 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/26 16:24:00 ** Thanks & Regards
+20/07/26 16:24:00 ** Team City  Service Provider
+20/07/26 16:24:00 ** 
+20/07/26 16:24:00 ** --- MESSAGE END ---
+20/07/26 16:24:03 ** Connecting to smtp.gmail.com:587
+20/07/26 16:24:03 ** Connected.
+20/07/26 16:24:04 << 220 smtp.gmail.com ESMTP p12sm10989779pgk.40 - gsmtp<EOL>
+20/07/26 16:24:04 >> EHLO localhost<EOL>
+20/07/26 16:24:04 << 250-smtp.gmail.com at your service, [157.32.241.228]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/26 16:24:04 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/26 16:24:04 >> STARTTLS<EOL>
+20/07/26 16:24:04 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/26 16:24:05 >> EHLO localhost<EOL>
+20/07/26 16:24:05 << 250-smtp.gmail.com at your service, [157.32.241.228]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/26 16:24:05 >> AUTH LOGIN<EOL>
+20/07/26 16:24:05 << 334 VXNlcm5hbWU6<EOL>
+20/07/26 16:24:05 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/26 16:24:06 << 334 UGFzc3dvcmQ6<EOL>
+20/07/26 16:24:06 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/26 16:24:06 << 235 2.7.0 Accepted<EOL>
+20/07/26 16:24:06 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/26 16:24:07 << 250 2.1.0 OK p12sm10989779pgk.40 - gsmtp<EOL>
+20/07/26 16:24:07 >> RCPT TO: <g@gmail.com><EOL>
+20/07/26 16:24:07 << 250 2.1.5 OK p12sm10989779pgk.40 - gsmtp<EOL>
+20/07/26 16:24:07 >> DATA<EOL>
+20/07/26 16:24:08 << 354  Go ahead p12sm10989779pgk.40 - gsmtp<EOL>
+20/07/26 16:24:08 >> Date: Sun, 26 Jul 2020 16:24:08 +0530<EOL>
+20/07/26 16:24:08 >> To: g@gmail.com<EOL>
+20/07/26 16:24:08 >> Subject: Invoice<EOL>
+20/07/26 16:24:08 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/26 16:24:08 >> <EOL>
+20/07/26 16:24:08 >> Dear Sir/Ma'am<EOL>
+20/07/26 16:24:08 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/26 16:24:08 >> Your Invoice no.:   16322020-04-02<EOL>
+20/07/26 16:24:08 >> Service Charge.: Rs 200<EOL>
+20/07/26 16:24:08 >> Visiting charge.:  Rs 299<EOL>
+20/07/26 16:24:08 >> Material Cost.:  Rs 100<EOL>
+20/07/26 16:24:08 >> Total .:  Rs 599<EOL>
+20/07/26 16:24:08 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/26 16:24:08 >> Thanks & Regards<EOL>
+20/07/26 16:24:08 >> Team City  Service Provider<EOL>
+20/07/26 16:24:08 >> <EOL>
+20/07/26 16:24:08 >> .<EOL>
+20/07/26 16:24:09 << 250 2.0.0 OK  1595760848 p12sm10989779pgk.40 - gsmtp<EOL>
+20/07/26 16:24:09 >> QUIT<EOL>
+20/07/26 16:24:09 << 221 2.0.0 closing connection p12sm10989779pgk.40 - gsmtp<EOL>
+20/07/26 16:24:09 ** Disconnected.
+20/07/26 16:24:09 ** Disconnected.
+20/07/26 16:24:09 ** Disconnected.
+20/07/28 09:16:03 ** --- MESSAGE BEGIN ---
+20/07/28 09:16:03 ** To: zinkal.patel21@gmail.com
+20/07/28 09:16:03 ** Subject: Invoice
+20/07/28 09:16:03 ** From: info.cityserviceprovider@gmail.com
+20/07/28 09:16:03 ** 
+20/07/28 09:16:03 ** Dear Sir/Ma'am
+20/07/28 09:16:03 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/07/28 09:16:03 ** Your Invoice no.:   122312020-07-30
+20/07/28 09:16:03 ** Service Charge.: Rs 200
+20/07/28 09:16:03 ** Visiting charge.:  Rs 199
+20/07/28 09:16:03 ** Material Cost.:  Rs 100
+20/07/28 09:16:03 ** Total .:  Rs 499
+20/07/28 09:16:03 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/07/28 09:16:03 ** Thanks & Regards
+20/07/28 09:16:03 ** Team City  Service Provider
+20/07/28 09:16:03 ** 
+20/07/28 09:16:03 ** --- MESSAGE END ---
+20/07/28 09:16:06 ** Connecting to smtp.gmail.com:587
+20/07/28 09:16:07 ** Connected.
+20/07/28 09:16:07 << 220 smtp.gmail.com ESMTP 9sm16052409pfx.131 - gsmtp<EOL>
+20/07/28 09:16:07 >> EHLO localhost<EOL>
+20/07/28 09:16:07 << 250-smtp.gmail.com at your service, [223.184.167.75]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/28 09:16:07 ** Authenticating as info.cityserviceprovider@gmail.com
+20/07/28 09:16:07 >> STARTTLS<EOL>
+20/07/28 09:16:07 << 220 2.0.0 Ready to start TLS<EOL>
+20/07/28 09:16:08 >> EHLO localhost<EOL>
+20/07/28 09:16:08 << 250-smtp.gmail.com at your service, [223.184.167.75]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/28 09:16:08 >> AUTH LOGIN<EOL>
+20/07/28 09:16:08 << 334 VXNlcm5hbWU6<EOL>
+20/07/28 09:16:08 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/07/28 09:16:08 << 334 UGFzc3dvcmQ6<EOL>
+20/07/28 09:16:08 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/07/28 09:16:09 << 235 2.7.0 Accepted<EOL>
+20/07/28 09:16:09 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/07/28 09:16:09 << 250 2.1.0 OK 9sm16052409pfx.131 - gsmtp<EOL>
+20/07/28 09:16:09 >> RCPT TO: <zinkal.patel21@gmail.com><EOL>
+20/07/28 09:16:09 << 250 2.1.5 OK 9sm16052409pfx.131 - gsmtp<EOL>
+20/07/28 09:16:09 >> DATA<EOL>
+20/07/28 09:16:10 << 354  Go ahead 9sm16052409pfx.131 - gsmtp<EOL>
+20/07/28 09:16:10 >> Date: Tue, 28 Jul 2020 09:16:10 +0530<EOL>
+20/07/28 09:16:10 >> To: zinkal.patel21@gmail.com<EOL>
+20/07/28 09:16:10 >> Subject: Invoice<EOL>
+20/07/28 09:16:10 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/07/28 09:16:10 >> <EOL>
+20/07/28 09:16:10 >> Dear Sir/Ma'am<EOL>
+20/07/28 09:16:10 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/07/28 09:16:10 >> Your Invoice no.:   122312020-07-30<EOL>
+20/07/28 09:16:10 >> Service Charge.: Rs 200<EOL>
+20/07/28 09:16:10 >> Visiting charge.:  Rs 199<EOL>
+20/07/28 09:16:10 >> Material Cost.:  Rs 100<EOL>
+20/07/28 09:16:10 >> Total .:  Rs 499<EOL>
+20/07/28 09:16:10 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/07/28 09:16:10 >> Thanks & Regards<EOL>
+20/07/28 09:16:10 >> Team City  Service Provider<EOL>
+20/07/28 09:16:10 >> <EOL>
+20/07/28 09:16:10 >> .<EOL>
+20/07/28 09:16:11 << 250 2.0.0 OK  1595907971 9sm16052409pfx.131 - gsmtp<EOL>
+20/07/28 09:16:11 >> QUIT<EOL>
+20/07/28 09:16:12 << 221 2.0.0 closing connection 9sm16052409pfx.131 - gsmtp<EOL>
+20/07/28 09:16:12 ** Disconnecting from smtp.gmail.com:587
+20/07/28 09:16:12 ** Disconnected.
+20/07/28 09:16:12 ** Disconnected.
+20/08/04 11:23:28 ** --- MESSAGE BEGIN ---
+20/08/04 11:23:28 ** To: gauravpravin413@gmail.com
+20/08/04 11:23:28 ** Subject: Invoice
+20/08/04 11:23:28 ** From: info.cityserviceprovider@gmail.com
+20/08/04 11:23:28 ** 
+20/08/04 11:23:28 ** Dear Sir/Ma'am
+20/08/04 11:23:28 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/08/04 11:23:28 ** Your Invoice no.:   71422020-03-23
+20/08/04 11:23:28 ** Service Charge.: Rs 200
+20/08/04 11:23:28 ** Visiting charge.:  Rs 299
+20/08/04 11:23:28 ** Material Cost.:  Rs 100
+20/08/04 11:23:28 ** Total .:  Rs 599
+20/08/04 11:23:28 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/08/04 11:23:28 ** Thanks & Regards
+20/08/04 11:23:28 ** Team City  Service Provider
+20/08/04 11:23:28 ** 
+20/08/04 11:23:28 ** --- MESSAGE END ---
+20/08/04 11:23:31 ** Connecting to smtp.gmail.com:587
+20/08/04 11:23:31 ** Disconnected.
+20/08/04 11:23:31 ** Disconnected.
+20/08/04 11:23:31 ** Disconnected.
+20/08/04 11:23:31 ** Socket Error # 11001<EOL>Host not found.
+20/08/04 11:30:55 ** --- MESSAGE BEGIN ---
+20/08/04 11:30:55 ** To: gauravpravin413@gmail.com
+20/08/04 11:30:55 ** Subject: Invoice
+20/08/04 11:30:55 ** From: info.cityserviceprovider@gmail.com
+20/08/04 11:30:55 ** 
+20/08/04 11:30:55 ** Dear Sir/Ma'am
+20/08/04 11:30:55 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/08/04 11:30:55 ** Your Invoice no.:   71422020-08-04
+20/08/04 11:30:55 ** Service Charge.: Rs 56
+20/08/04 11:30:55 ** Visiting charge.:  Rs 299
+20/08/04 11:30:55 ** Material Cost.:  Rs 30
+20/08/04 11:30:55 ** Total .:  Rs 385
+20/08/04 11:30:55 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/08/04 11:30:55 ** Thanks & Regards
+20/08/04 11:30:55 ** Team City  Service Provider
+20/08/04 11:30:55 ** 
+20/08/04 11:30:55 ** --- MESSAGE END ---
+20/08/04 11:31:00 ** Connecting to smtp.gmail.com:587
+20/08/04 11:31:01 ** Connected.
+20/08/04 11:31:01 << 220 smtp.gmail.com ESMTP y20sm8997656pfn.183 - gsmtp<EOL>
+20/08/04 11:31:01 >> EHLO localhost<EOL>
+20/08/04 11:31:01 << 250-smtp.gmail.com at your service, [106.213.132.238]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/04 11:31:01 ** Authenticating as info.cityserviceprovider@gmail.com
+20/08/04 11:31:01 >> STARTTLS<EOL>
+20/08/04 11:31:01 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/04 11:31:02 >> EHLO localhost<EOL>
+20/08/04 11:31:02 << 250-smtp.gmail.com at your service, [106.213.132.238]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/04 11:31:02 >> AUTH LOGIN<EOL>
+20/08/04 11:31:02 << 334 VXNlcm5hbWU6<EOL>
+20/08/04 11:31:02 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/08/04 11:31:03 << 334 UGFzc3dvcmQ6<EOL>
+20/08/04 11:31:03 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/08/04 11:31:03 << 235 2.7.0 Accepted<EOL>
+20/08/04 11:31:03 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/08/04 11:31:03 << 250 2.1.0 OK y20sm8997656pfn.183 - gsmtp<EOL>
+20/08/04 11:31:03 >> RCPT TO: <gauravpravin413@gmail.com><EOL>
+20/08/04 11:31:04 << 250 2.1.5 OK y20sm8997656pfn.183 - gsmtp<EOL>
+20/08/04 11:31:04 >> DATA<EOL>
+20/08/04 11:31:05 << 354  Go ahead y20sm8997656pfn.183 - gsmtp<EOL>
+20/08/04 11:31:05 >> Date: Tue, 4 Aug 2020 11:31:05 +0530<EOL>
+20/08/04 11:31:05 >> To: gauravpravin413@gmail.com<EOL>
+20/08/04 11:31:05 >> Subject: Invoice<EOL>
+20/08/04 11:31:05 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/08/04 11:31:05 >> <EOL>
+20/08/04 11:31:05 >> Dear Sir/Ma'am<EOL>
+20/08/04 11:31:05 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/08/04 11:31:05 >> Your Invoice no.:   71422020-08-04<EOL>
+20/08/04 11:31:05 >> Service Charge.: Rs 56<EOL>
+20/08/04 11:31:05 >> Visiting charge.:  Rs 299<EOL>
+20/08/04 11:31:05 >> Material Cost.:  Rs 30<EOL>
+20/08/04 11:31:05 >> Total .:  Rs 385<EOL>
+20/08/04 11:31:05 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/08/04 11:31:05 >> Thanks & Regards<EOL>
+20/08/04 11:31:05 >> Team City  Service Provider<EOL>
+20/08/04 11:31:05 >> <EOL>
+20/08/04 11:31:05 >> .<EOL>
+20/08/04 11:31:07 << 250 2.0.0 OK  1596520866 y20sm8997656pfn.183 - gsmtp<EOL>
+20/08/04 11:31:07 >> QUIT<EOL>
+20/08/04 11:31:08 << 221 2.0.0 closing connection y20sm8997656pfn.183 - gsmtp<EOL>
+20/08/04 11:31:08 ** Disconnected.
+20/08/04 11:31:08 ** Disconnected.
+20/08/04 11:31:08 ** Disconnected.
+20/08/05 12:24:16 ** --- MESSAGE BEGIN ---
+20/08/05 12:24:16 ** To: adityasingh8511@gmail.com
+20/08/05 12:24:16 ** Subject: Invoice
+20/08/05 12:24:16 ** From: info.cityserviceprovider@gmail.com
+20/08/05 12:24:16 ** 
+20/08/05 12:24:16 ** Dear Sir/Ma'am
+20/08/05 12:24:16 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/08/05 12:24:16 ** Your Invoice no.:   121912020-08-05
+20/08/05 12:24:16 ** Service Charge.: Rs 600
+20/08/05 12:24:16 ** Visiting charge.:  Rs 199
+20/08/05 12:24:16 ** Material Cost.:  Rs 500
+20/08/05 12:24:16 ** Total .:  Rs 1299
+20/08/05 12:24:16 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/08/05 12:24:16 ** Thanks & Regards
+20/08/05 12:24:16 ** Team City  Service Provider
+20/08/05 12:24:16 ** 
+20/08/05 12:24:16 ** --- MESSAGE END ---
+20/08/05 12:24:18 ** Connecting to smtp.gmail.com:587
+20/08/05 12:24:19 ** Connected.
+20/08/05 12:24:19 << 220 smtp.gmail.com ESMTP l17sm1970399pff.126 - gsmtp<EOL>
+20/08/05 12:24:19 >> EHLO localhost<EOL>
+20/08/05 12:24:19 << 250-smtp.gmail.com at your service, [27.61.237.18]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/05 12:24:19 ** Authenticating as info.cityserviceprovider@gmail.com
+20/08/05 12:24:19 >> STARTTLS<EOL>
+20/08/05 12:24:20 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/05 12:24:20 >> EHLO localhost<EOL>
+20/08/05 12:24:20 << 250-smtp.gmail.com at your service, [27.61.237.18]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/05 12:24:20 >> AUTH LOGIN<EOL>
+20/08/05 12:24:20 << 334 VXNlcm5hbWU6<EOL>
+20/08/05 12:24:20 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/08/05 12:24:21 << 334 UGFzc3dvcmQ6<EOL>
+20/08/05 12:24:21 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/08/05 12:24:21 << 235 2.7.0 Accepted<EOL>
+20/08/05 12:24:21 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/08/05 12:24:21 << 250 2.1.0 OK l17sm1970399pff.126 - gsmtp<EOL>
+20/08/05 12:24:21 >> RCPT TO: <adityasingh8511@gmail.com><EOL>
+20/08/05 12:24:22 << 250 2.1.5 OK l17sm1970399pff.126 - gsmtp<EOL>
+20/08/05 12:24:22 >> DATA<EOL>
+20/08/05 12:24:23 << 354  Go ahead l17sm1970399pff.126 - gsmtp<EOL>
+20/08/05 12:24:23 >> Date: Wed, 5 Aug 2020 12:24:23 +0530<EOL>
+20/08/05 12:24:23 >> To: adityasingh8511@gmail.com<EOL>
+20/08/05 12:24:23 >> Subject: Invoice<EOL>
+20/08/05 12:24:23 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/08/05 12:24:23 >> <EOL>
+20/08/05 12:24:23 >> Dear Sir/Ma'am<EOL>
+20/08/05 12:24:23 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/08/05 12:24:23 >> Your Invoice no.:   121912020-08-05<EOL>
+20/08/05 12:24:23 >> Service Charge.: Rs 600<EOL>
+20/08/05 12:24:23 >> Visiting charge.:  Rs 199<EOL>
+20/08/05 12:24:23 >> Material Cost.:  Rs 500<EOL>
+20/08/05 12:24:23 >> Total .:  Rs 1299<EOL>
+20/08/05 12:24:23 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/08/05 12:24:23 >> Thanks & Regards<EOL>
+20/08/05 12:24:23 >> Team City  Service Provider<EOL>
+20/08/05 12:24:23 >> <EOL>
+20/08/05 12:24:23 >> .<EOL>
+20/08/05 12:24:24 << 250 2.0.0 OK  1596610464 l17sm1970399pff.126 - gsmtp<EOL>
+20/08/05 12:24:24 >> QUIT<EOL>
+20/08/05 12:24:24 << 221 2.0.0 closing connection l17sm1970399pff.126 - gsmtp<EOL>
+20/08/05 12:24:24 ** Disconnected.
+20/08/05 12:24:24 ** Disconnected.
+20/08/05 12:24:24 ** Disconnected.
+20/08/05 12:24:24 ** --- MESSAGE BEGIN ---
+20/08/05 12:24:24 ** To: adityasingh8511@gmail.com
+20/08/05 12:24:24 ** Subject: Invoice
+20/08/05 12:24:24 ** From: info.cityserviceprovider@gmail.com
+20/08/05 12:24:24 ** 
+20/08/05 12:24:24 ** Dear Sir/Ma'am
+20/08/05 12:24:24 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/08/05 12:24:24 ** Your Invoice no.:   121912020-08-05
+20/08/05 12:24:24 ** Service Charge.: Rs 600
+20/08/05 12:24:24 ** Visiting charge.:  Rs 199
+20/08/05 12:24:24 ** Material Cost.:  Rs 500
+20/08/05 12:24:24 ** Total .:  Rs 1299
+20/08/05 12:24:24 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/08/05 12:24:25 ** Thanks & Regards
+20/08/05 12:24:25 ** Team City  Service Provider
+20/08/05 12:24:25 ** 
+20/08/05 12:24:25 ** --- MESSAGE END ---
+20/08/05 12:24:26 ** Connecting to smtp.gmail.com:587
+20/08/05 12:24:27 ** Connected.
+20/08/05 12:24:27 << 220 smtp.gmail.com ESMTP l63sm1668253pgl.24 - gsmtp<EOL>
+20/08/05 12:24:27 >> EHLO localhost<EOL>
+20/08/05 12:24:27 << 250-smtp.gmail.com at your service, [27.61.237.18]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/05 12:24:27 ** Authenticating as info.cityserviceprovider@gmail.com
+20/08/05 12:24:27 >> STARTTLS<EOL>
+20/08/05 12:24:27 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/05 12:24:27 >> EHLO localhost<EOL>
+20/08/05 12:24:28 << 250-smtp.gmail.com at your service, [27.61.237.18]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/05 12:24:28 >> AUTH LOGIN<EOL>
+20/08/05 12:24:28 << 334 VXNlcm5hbWU6<EOL>
+20/08/05 12:24:28 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/08/05 12:24:28 << 334 UGFzc3dvcmQ6<EOL>
+20/08/05 12:24:28 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/08/05 12:24:28 << 235 2.7.0 Accepted<EOL>
+20/08/05 12:24:28 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/08/05 12:24:29 << 250 2.1.0 OK l63sm1668253pgl.24 - gsmtp<EOL>
+20/08/05 12:24:29 >> RCPT TO: <adityasingh8511@gmail.com><EOL>
+20/08/05 12:24:29 << 250 2.1.5 OK l63sm1668253pgl.24 - gsmtp<EOL>
+20/08/05 12:24:29 >> DATA<EOL>
+20/08/05 12:24:29 << 354  Go ahead l63sm1668253pgl.24 - gsmtp<EOL>
+20/08/05 12:24:29 >> Date: Wed, 5 Aug 2020 12:24:29 +0530<EOL>
+20/08/05 12:24:29 >> To: adityasingh8511@gmail.com<EOL>
+20/08/05 12:24:29 >> Subject: Invoice<EOL>
+20/08/05 12:24:29 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/08/05 12:24:29 >> <EOL>
+20/08/05 12:24:29 >> Dear Sir/Ma'am<EOL>
+20/08/05 12:24:29 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/08/05 12:24:29 >> Your Invoice no.:   121912020-08-05<EOL>
+20/08/05 12:24:29 >> Service Charge.: Rs 600<EOL>
+20/08/05 12:24:29 >> Visiting charge.:  Rs 199<EOL>
+20/08/05 12:24:29 >> Material Cost.:  Rs 500<EOL>
+20/08/05 12:24:29 >> Total .:  Rs 1299<EOL>
+20/08/05 12:24:29 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/08/05 12:24:29 >> Thanks & Regards<EOL>
+20/08/05 12:24:29 >> Team City  Service Provider<EOL>
+20/08/05 12:24:29 >> <EOL>
+20/08/05 12:24:29 >> .<EOL>
+20/08/05 12:24:30 << 250 2.0.0 OK  1596610470 l63sm1668253pgl.24 - gsmtp<EOL>
+20/08/05 12:24:30 >> QUIT<EOL>
+20/08/05 12:24:30 << 221 2.0.0 closing connection l63sm1668253pgl.24 - gsmtp<EOL>
+20/08/05 12:24:30 ** Disconnecting from smtp.gmail.com:587
+20/08/05 12:24:30 ** Disconnected.
+20/08/05 12:24:30 ** Disconnected.
+20/08/05 13:40:49 ** --- MESSAGE BEGIN ---
+20/08/05 13:40:49 ** To: patelkrupali1980@gmail.com
+20/08/05 13:40:49 ** Subject: Invoice
+20/08/05 13:40:49 ** From: info.cityserviceprovider@gmail.com
+20/08/05 13:40:49 ** 
+20/08/05 13:40:49 ** Dear Sir/Ma'am
+20/08/05 13:40:49 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/08/05 13:40:49 ** Your Invoice no.:   122412020-08-05
+20/08/05 13:40:49 ** Service Charge.: Rs 200
+20/08/05 13:40:49 ** Visiting charge.:  Rs 199
+20/08/05 13:40:49 ** Material Cost.:  Rs 50
+20/08/05 13:40:49 ** Total .:  Rs 449
+20/08/05 13:40:49 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/08/05 13:40:49 ** Thanks & Regards
+20/08/05 13:40:49 ** Team City  Service Provider
+20/08/05 13:40:49 ** 
+20/08/05 13:40:49 ** --- MESSAGE END ---
+20/08/05 13:40:51 ** Connecting to smtp.gmail.com:587
+20/08/05 13:40:52 ** Connected.
+20/08/05 13:40:52 << 220 smtp.gmail.com ESMTP ml18sm1834490pjb.43 - gsmtp<EOL>
+20/08/05 13:40:52 >> EHLO localhost<EOL>
+20/08/05 13:40:52 << 250-smtp.gmail.com at your service, [27.61.237.18]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/05 13:40:52 ** Authenticating as info.cityserviceprovider@gmail.com
+20/08/05 13:40:52 >> STARTTLS<EOL>
+20/08/05 13:40:53 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/05 13:40:53 >> EHLO localhost<EOL>
+20/08/05 13:40:53 << 250-smtp.gmail.com at your service, [27.61.237.18]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/05 13:40:53 >> AUTH LOGIN<EOL>
+20/08/05 13:40:53 << 334 VXNlcm5hbWU6<EOL>
+20/08/05 13:40:53 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/08/05 13:40:54 << 334 UGFzc3dvcmQ6<EOL>
+20/08/05 13:40:54 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/08/05 13:40:54 << 235 2.7.0 Accepted<EOL>
+20/08/05 13:40:54 >> MAIL FROM: <info.cityserviceprovider@gmail.com><EOL>
+20/08/05 13:40:54 << 250 2.1.0 OK ml18sm1834490pjb.43 - gsmtp<EOL>
+20/08/05 13:40:54 >> RCPT TO: <patelkrupali1980@gmail.com><EOL>
+20/08/05 13:40:55 << 250 2.1.5 OK ml18sm1834490pjb.43 - gsmtp<EOL>
+20/08/05 13:40:55 >> DATA<EOL>
+20/08/05 13:40:55 << 354  Go ahead ml18sm1834490pjb.43 - gsmtp<EOL>
+20/08/05 13:40:55 >> Date: Wed, 5 Aug 2020 13:40:55 +0530<EOL>
+20/08/05 13:40:55 >> To: patelkrupali1980@gmail.com<EOL>
+20/08/05 13:40:55 >> Subject: Invoice<EOL>
+20/08/05 13:40:55 >> From: info.cityserviceprovider@gmail.com<EOL>
+20/08/05 13:40:55 >> <EOL>
+20/08/05 13:40:55 >> Dear Sir/Ma'am<EOL>
+20/08/05 13:40:55 >> Thanks for  choosing us  . WE  hope you staisfy  From Our Service.<EOL>
+20/08/05 13:40:55 >> Your Invoice no.:   122412020-08-05<EOL>
+20/08/05 13:40:55 >> Service Charge.: Rs 200<EOL>
+20/08/05 13:40:55 >> Visiting charge.:  Rs 199<EOL>
+20/08/05 13:40:55 >> Material Cost.:  Rs 50<EOL>
+20/08/05 13:40:55 >> Total .:  Rs 449<EOL>
+20/08/05 13:40:55 >> for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..<EOL>
+20/08/05 13:40:55 >> Thanks & Regards<EOL>
+20/08/05 13:40:55 >> Team City  Service Provider<EOL>
+20/08/05 13:40:55 >> <EOL>
+20/08/05 13:40:55 >> .<EOL>
+20/08/05 13:40:56 << 250 2.0.0 OK  1596615056 ml18sm1834490pjb.43 - gsmtp<EOL>
+20/08/05 13:40:56 >> QUIT<EOL>
+20/08/05 13:40:57 << 221 2.0.0 closing connection ml18sm1834490pjb.43 - gsmtp<EOL>
+20/08/05 13:40:57 ** Disconnected.
+20/08/05 13:40:57 ** Disconnected.
+20/08/05 13:40:57 ** Disconnected.
+20/12/15 23:03:41 ** --- MESSAGE BEGIN ---
+20/12/15 23:03:41 ** To: g@gmail.com
+20/12/15 23:03:41 ** Subject: Invoice
+20/12/15 23:03:41 ** From: info.cityserviceprovider@gmail.com
+20/12/15 23:03:41 ** 
+20/12/15 23:03:41 ** Dear Sir/Ma'am
+20/12/15 23:03:42 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/12/15 23:03:42 ** Your Invoice no.:   12312020-12-16
+20/12/15 23:03:42 ** Service Charge.: Rs 150
+20/12/15 23:03:42 ** Visiting charge.:  Rs 199
+20/12/15 23:03:42 ** Material Cost.:  Rs 0
+20/12/15 23:03:42 ** Total .:  Rs 349
+20/12/15 23:03:42 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/12/15 23:03:42 ** Thanks & Regards
+20/12/15 23:03:42 ** Team City  Service Provider
+20/12/15 23:03:42 ** 
+20/12/15 23:03:42 ** --- MESSAGE END ---
+20/12/15 23:03:43 ** Connecting to smtp.gmail.com:587
+20/12/15 23:03:44 ** Connected.
+20/12/15 23:03:44 << 220 smtp.gmail.com ESMTP o2sm26391941pgq.63 - gsmtp<EOL>
+20/12/15 23:03:44 >> EHLO localhost<EOL>
+20/12/15 23:03:44 << 250-smtp.gmail.com at your service, [27.61.210.50]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/12/15 23:03:44 ** Authenticating as info.cityserviceprovider@gmail.com
+20/12/15 23:03:44 >> STARTTLS<EOL>
+20/12/15 23:03:44 << 220 2.0.0 Ready to start TLS<EOL>
+20/12/15 23:03:45 >> EHLO localhost<EOL>
+20/12/15 23:03:45 << 250-smtp.gmail.com at your service, [27.61.210.50]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/12/15 23:03:45 >> AUTH LOGIN<EOL>
+20/12/15 23:03:45 << 334 VXNlcm5hbWU6<EOL>
+20/12/15 23:03:45 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/12/15 23:03:45 << 334 UGFzc3dvcmQ6<EOL>
+20/12/15 23:03:45 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/12/15 23:03:46 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials o2sm26391941pgq.63 - gsmtp<EOL>
+20/12/15 23:03:46 ** Disconnecting from smtp.gmail.com:587
+20/12/15 23:03:46 ** Disconnected.
+20/12/15 23:03:46 ** Disconnected.
+20/12/15 23:03:46 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials o2sm26391941pgq.63 - gsmtp<EOL>
+20/12/15 23:24:06 ** --- MESSAGE BEGIN ---
+20/12/15 23:24:06 ** To: vishaljiwani1234@gmail.com
+20/12/15 23:24:06 ** Subject: Invoice
+20/12/15 23:24:06 ** From: info.cityserviceprovider@gmail.com
+20/12/15 23:24:06 ** 
+20/12/15 23:24:06 ** Dear Sir/Ma'am
+20/12/15 23:24:06 ** Thanks for  choosing us  . WE  hope you staisfy  From Our Service.
+20/12/15 23:24:06 ** Your Invoice no.:   72622020-12-15
+20/12/15 23:24:06 ** Service Charge.: Rs 500
+20/12/15 23:24:06 ** Visiting charge.:  Rs 299
+20/12/15 23:24:06 ** Material Cost.:  Rs 500
+20/12/15 23:24:06 ** Total .:  Rs 1299
+20/12/15 23:24:06 ** for printing  invoice visit  our  website you get from there...Stay Tunned with us For any Kind of  Service Just Log On City Service provider ..
+20/12/15 23:24:06 ** Thanks & Regards
+20/12/15 23:24:06 ** Team City  Service Provider
+20/12/15 23:24:06 ** 
+20/12/15 23:24:06 ** --- MESSAGE END ---
+20/12/15 23:24:07 ** Connecting to smtp.gmail.com:587
+20/12/15 23:24:08 ** Connected.
+20/12/15 23:24:08 << 220 smtp.gmail.com ESMTP cq15sm22150043pjb.27 - gsmtp<EOL>
+20/12/15 23:24:08 >> EHLO localhost<EOL>
+20/12/15 23:24:08 << 250-smtp.gmail.com at your service, [27.61.210.50]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/12/15 23:24:08 ** Authenticating as info.cityserviceprovider@gmail.com
+20/12/15 23:24:08 >> STARTTLS<EOL>
+20/12/15 23:24:09 << 220 2.0.0 Ready to start TLS<EOL>
+20/12/15 23:24:09 >> EHLO localhost<EOL>
+20/12/15 23:24:09 << 250-smtp.gmail.com at your service, [27.61.210.50]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/12/15 23:24:09 >> AUTH LOGIN<EOL>
+20/12/15 23:24:09 << 334 VXNlcm5hbWU6<EOL>
+20/12/15 23:24:09 >> aW5mby5jaXR5c2VydmljZXByb3ZpZGVyQGdtYWlsLmNvbQ==<EOL>
+20/12/15 23:24:10 << 334 UGFzc3dvcmQ6<EOL>
+20/12/15 23:24:10 >> Y2l0eXNlcnZpY2UyMDIwQA==<EOL>
+20/12/15 23:24:10 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials cq15sm22150043pjb.27 - gsmtp<EOL>
+20/12/15 23:24:10 ** Disconnecting from smtp.gmail.com:587
+20/12/15 23:24:10 ** Disconnected.
+20/12/15 23:24:10 ** Disconnected.
+20/12/15 23:24:10 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials cq15sm22150043pjb.27 - gsmtp<EOL>
+21/01/27 19:55:00 ** --- MESSAGE BEGIN ---
+21/01/27 19:55:00 ** To: pragnesh <p@gmail.com>
+21/01/27 19:55:00 ** Subject: Registration Email Confirmation for YOUR WEBSITE.
+21/01/27 19:55:00 ** Date: Wed, 27 Jan 2021 19:54:49 +0530
+21/01/27 19:55:00 ** From: Admin <info@yourwebsite.com>
+21/01/27 19:55:00 ** Reply-To: Admin <info@yourwebsite.com>
+21/01/27 19:55:00 ** Message-ID: <u1PnFGKzsLfUsLwSHoLx5SUvcsxu1TDQWNihZJhqE@localhost>
+21/01/27 19:55:00 ** X-Mailer: PHPMailer 6.0.1 (https://github.com/PHPMailer/PHPMailer)
+21/01/27 19:55:00 ** MIME-Version: 1.0
+21/01/27 19:55:00 ** Content-Type: text/html; charset=iso-8859-1
+21/01/27 19:55:00 ** 
+21/01/27 19:55:00 ** 
+21/01/27 19:55:00 ** Thank you for your registration! Your account has been created. To active your account click on the link below:<br><br>
+21/01/27 19:55:00 ** 
+21/01/27 19:55:00 ** <a href="http://yourwebsite.com/verify.php?email=p@gmail.com&token=064a87ca2e9fc4904285df7b216691ee">http://yourwebsite.com/verify.php?email=p@gmail.com&token=064a87ca2e9fc4904285df7b216691ee</a>
+21/01/27 19:55:00 ** 
+21/01/27 19:55:00 ** --- MESSAGE END ---
+21/01/27 19:55:03 ** Connecting to smtp.gmail.com:587
+21/01/27 19:55:03 ** Disconnected.
+21/01/27 19:55:03 ** Disconnected.
+21/01/27 19:55:03 ** Disconnected.
+21/01/27 19:55:03 ** Socket Error # 11001<EOL>Host not found.
+21/01/27 19:57:15 ** --- MESSAGE BEGIN ---
+21/01/27 19:57:16 ** To: praveen <gauravpravin413@gmail.com>
+21/01/27 19:57:16 ** Subject: Registration Email Confirmation for YOUR WEBSITE.
+21/01/27 19:57:16 ** Date: Wed, 27 Jan 2021 19:57:15 +0530
+21/01/27 19:57:16 ** From: Admin <info@yourwebsite.com>
+21/01/27 19:57:16 ** Reply-To: Admin <info@yourwebsite.com>
+21/01/27 19:57:16 ** Message-ID: <LT17EoDZXZA6T1K8rM97huUx4r8d2g9jaqrox3TG7I@localhost>
+21/01/27 19:57:16 ** X-Mailer: PHPMailer 6.0.1 (https://github.com/PHPMailer/PHPMailer)
+21/01/27 19:57:16 ** MIME-Version: 1.0
+21/01/27 19:57:16 ** Content-Type: text/html; charset=iso-8859-1
+21/01/27 19:57:16 ** 
+21/01/27 19:57:16 ** 
+21/01/27 19:57:16 ** Thank you for your registration! Your account has been created. To active your account click on the link below:<br><br>
+21/01/27 19:57:16 ** 
+21/01/27 19:57:16 ** <a href="http://yourwebsite.com/verify.php?email=gauravpravin413@gmail.com&token=c29b4c27a52d41330d6a8fd3bd22fa86">http://yourwebsite.com/verify.php?email=gauravpravin413@gmail.com&token=c29b4c27a52d41330d6a8fd3bd22fa86</a>
+21/01/27 19:57:16 ** 
+21/01/27 19:57:16 ** --- MESSAGE END ---
+21/01/27 19:57:17 ** Connecting to smtp.gmail.com:587
+21/01/27 19:57:17 ** Disconnected.
+21/01/27 19:57:17 ** Disconnected.
+21/01/27 19:57:17 ** Disconnected.
+21/01/27 19:57:17 ** Socket Error # 11001<EOL>Host not found.
