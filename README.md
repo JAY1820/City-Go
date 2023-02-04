@@ -24,7 +24,7 @@ git clone https://github.com/JAY1820/City-Go
 - Easily get service at a home
 - Give epmployment to citizen
 
-## Other Features
+## Some others Features
 
 - Easy to maintain
 - Earn profit via a commssion
@@ -35,7 +35,7 @@ git clone https://github.com/JAY1820/City-Go
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jay_valaki_)
 
   
-## Authors
+## Authors of project
 
 - [@jayminvalaki](https://github.com/JAY1820)
   
