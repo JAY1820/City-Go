@@ -1,10 +1,10 @@
 # Citygo
 PHP PROJECT TO CONNECT A CITY VIA A SERVICES. 
 
-# Virtual Assistant
+# CITY GO
 
 
-![Logo](https://www.linkpicture.com/q/github-project-city-go-gif.gif)
+[Logo](https://www.linkpicture.com/q/github-project-city-go-gif.gif)
 
     
 ## Install
