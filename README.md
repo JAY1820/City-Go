@@ -14,7 +14,7 @@ Before Installing packages first download and activate localhost server
 
 ### Download
 command : 
-git clone https://github.com/JAY1820/City Go
+git clone https://github.com/JAY1820/City-Go
 
 
   
@@ -31,8 +31,8 @@ git clone https://github.com/JAY1820/City Go
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savan-sutariya-60b819203/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savan_sutariya_)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/jay-patel-40abab219)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jay_valaki_)
 
   
 ## Authors
