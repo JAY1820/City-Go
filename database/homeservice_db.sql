@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 17, 2022 at 06:14 PM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 7.4.27
+-- Generation Time: Mar 18, 2023 at 12:30 PM
+-- Server version: 10.4.27-MariaDB
+-- PHP Version: 8.2.0
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -32,7 +32,7 @@ CREATE TABLE `about_us` (
   `title` varchar(50) NOT NULL,
   `description` varchar(5000) NOT NULL,
   `image` varchar(500) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `about_us`
@@ -63,7 +63,7 @@ CREATE TABLE `booking` (
   `Qty` int(11) NOT NULL,
   `bookingid` varchar(200) NOT NULL,
   `invoice` tinyint(4) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `booking`
@@ -113,7 +113,7 @@ CREATE TABLE `city_mst` (
   `city_name` varchar(50) NOT NULL,
   `city_state` varchar(50) NOT NULL,
   `status` tinyint(5) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `city_mst`
@@ -140,7 +140,7 @@ CREATE TABLE `contact` (
   `message` mediumtext NOT NULL,
   `pid` int(11) NOT NULL,
   `status` tinyint(5) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `contact`
@@ -162,7 +162,7 @@ CREATE TABLE `feedback` (
   `description` varchar(250) NOT NULL,
   `date` date NOT NULL DEFAULT current_timestamp(),
   `status` tinyint(1) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `feedback`
@@ -198,7 +198,7 @@ CREATE TABLE `invoice` (
   `materialcost` int(11) NOT NULL,
   `totalsubservice` int(11) NOT NULL,
   `company` tinyint(5) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `invoice`
@@ -250,14 +250,15 @@ CREATE TABLE `login_admin` (
   `city` varchar(50) NOT NULL,
   `email` varchar(100) NOT NULL,
   `img` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `login_admin`
 --
 
 INSERT INTO `login_admin` (`id`, `userid`, `password`, `name`, `phone`, `city`, `email`, `img`) VALUES
-(1, 'amulpande', 'amul1234', 'AMUL', '9624980803', 'vapi', 'amul45@gmail.com', '938101.png');
+(1, 'amulpande', 'amul1234', 'AMUL', '9624980803', 'vapi', 'amul45@gmail.com', '938101.png'),
+(2, 'jay18', 'jay1820', 'Jaymin valaki', '', 'vapi', 'iamjay1820@gmail.com', '');
 
 -- --------------------------------------------------------
 
@@ -271,7 +272,7 @@ CREATE TABLE `services` (
   `description` mediumtext NOT NULL,
   `s_img` varchar(500) NOT NULL,
   `visiting_price` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `services`
@@ -296,7 +297,7 @@ CREATE TABLE `service_detail` (
   `ssid` int(11) NOT NULL,
   `c_name` varchar(50) NOT NULL,
   `sid` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `service_detail`
@@ -346,7 +347,7 @@ CREATE TABLE `service_provider` (
   `short_bio` varchar(5000) NOT NULL,
   `experience` varchar(50) NOT NULL,
   `self` tinyint(5) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `service_provider`
@@ -380,7 +381,7 @@ CREATE TABLE `sub_service` (
   `sbid` int(11) NOT NULL,
   `ssid` int(11) NOT NULL,
   `sub_name` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `sub_service`
@@ -420,7 +421,7 @@ CREATE TABLE `user` (
   `p_no` varchar(10) NOT NULL,
   `address` varchar(100) NOT NULL,
   `img` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `user`
@@ -444,7 +445,7 @@ CREATE TABLE `userlogin` (
   `uphoneno` varchar(50) NOT NULL,
   `upassword` varchar(20) NOT NULL,
   `ucpassword` varchar(20) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `userlogin`
